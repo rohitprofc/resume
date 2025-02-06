@@ -17,16 +17,11 @@ h2 {
     padding-bottom: 1em;
 }
 
-h3 {
-    font-size: 1em;
-    padding-bottom: 1em;
-}
-
 main { 
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
-   }
+}
 
 header {
     text-align: center;
@@ -51,11 +46,11 @@ hr {
     height: 1px;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-weight: 100;
     margin-bottom: 0;
 }
 
 #mainLeft {
     border-right: 1px solid lightgray;
-}
+ }
